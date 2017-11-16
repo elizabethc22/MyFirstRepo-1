@@ -1,3 +1,5 @@
+import time
+
 print ("write a person ")
 person1 = input ()
 print "write a football team ")
@@ -40,7 +42,7 @@ print ("Sunday afternoon"  + person1 "Was a bench warmer on the  "
        + adverb + "they lost but "
        + person1 + "played a great game"
 
-    
+    time.sleep(75)
        
     
 
@@ -51,5 +53,3 @@ print ("Sunday afternoon"  + person1 "Was a bench warmer on the  "
 
 
 
-
-       )
